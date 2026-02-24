@@ -578,7 +578,8 @@ export default function App() {
       </main>
 
       <footer className="max-w-6xl mx-auto mt-32 pt-16 border-t border-black/5 text-center opacity-20 text-[10px] font-black uppercase tracking-[0.5em]">
-        <p>MoodPaw &copy; {new Date().getFullYear()}</p>
+        <p>Made by Caspian &copy; {new Date().getFullYear()}</p>
+        <p><a href="https://github.com/real-squid-kid/moodpaw">Clone me on GitHub</a></p>
       </footer>
     </div>
   );

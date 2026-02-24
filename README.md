@@ -2,8 +2,6 @@
 
 **MOODPAW** is a highly customizable, web-based mood-badge generator designed for the furry community and beyond. Express your social energy, roleplay preferences, or contact status with beautifully crafted, print-ready badges.
 
-![MOODPAW Preview Placeholder](https://picsum.photos/seed/moodpaw/1200/600)
-
 ## Features
 
 - **Preset Categories**: Quick-start with curated presets for:
