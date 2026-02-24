@@ -48,12 +48,7 @@
    npm install
    ```
 
-3. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production**:
+3. **Build for production**:
    ```bash
    npm run build
    ```
@@ -72,4 +67,4 @@
 
 ## License
 
-This project is licensed under the GNU/GPL v3 license.
+This project is licensed under the [MIT License.](LICENSE.md)
